@@ -6,11 +6,15 @@
 
 ## Special NOTE：
 
-I have no idea what exactly happened that caused the original author's library to disappear!
+I have no idea what exactly happened that caused the original author's Project to disappear!
 
 Perhaps it has really hindered the interests of some people!
 
-But don't worry.  I have backups of all the original repositories here and I haven't had the chance to modify them yet...
+I feel so sad for the original author...
+
+However, this precisely proved the excellence of this project, and they were driven crazy by jealousy.
+
+And don't worry.  I have backups of all the original repositories here and I haven't had the chance to modify them yet...
 
 Because I originally intended to gradually follow the original author to learn.
 
@@ -24,7 +28,7 @@ Thank you for your contribution！
 
 I'm sincere！  Please believe me！
 
-If the original author needs my assistance, please contact me.
+If the original author needs a little assistance, please contact me.
 
 
 
