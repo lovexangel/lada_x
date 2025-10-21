@@ -4,6 +4,29 @@
   Lada
 </h1>
 
+NOTE：
+
+I have no idea what exactly happened that caused the original author's library to disappear!
+
+Perhaps it has really hindered the interests of some people!
+
+But don't worry. I have backups of all the original repositories here and I haven't had the chance to modify them yet...
+
+Because I originally intended to gradually follow the original author and learn well.
+
+Oh, really, there are such people everywhere.
+
+Well,I'm a novice. 
+
+Thank you for your contribution！
+
+I'm sincere！ Please believe me！
+
+If the original author needs my assistance, please contact me.
+
+
+
+
 *Lada* is a tool designed to recover pixelated adult videos (JAV). It helps restore the visual quality of such content, making it more enjoyable to watch.
 
 ## Features
